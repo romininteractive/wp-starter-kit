@@ -1,0 +1,21 @@
+WordPress Core Settings
+Permalink
+wooCommerce Setup
+-> Wizard
+-> Default Theme
+-> JetPack & Shipping and Tax Plugin
+-> MailChimp Integration for Abondoned cart
+wooCommerce Settings
+Razorpay Payment Gateway Integration
+-> Basic
+-> Webhook
+-> Auto Refund
+Terms, Privacy, Refund & Return - Pages
+GST Configuration
+Email Template and SMTP Configuration
+Shipping Tracking Field and Auto EMail
+Catalog Upload
+Testing
+
+Mailchimp Integration
+Facebook Marketting Integration
